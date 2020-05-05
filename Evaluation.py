@@ -1,7 +1,5 @@
 from EvaluateFunction import *
-from MatrixFactor import *
-from ContentBased import *
-from CollaborativeFiltering import*
+from Main import *
 from sklearn.metrics import mean_squared_error, r2_score, explained_variance_score
 
 

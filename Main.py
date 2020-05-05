@@ -1,10 +1,12 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+from sklearn.metrics.pairwise import cosine_similarity
 from Generate_DF import *
 from ContentBased import *
 from CollaborativeFiltering import *
 from MatrixFactor import *
+
 
 
 

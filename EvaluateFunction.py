@@ -1,5 +1,5 @@
 import random
-from CollaborativeFiltering import *
+import numpy as np
 
 
 def all_position_values(user_interaction_df):

@@ -1,6 +1,4 @@
-from sklearn.metrics.pairwise import cosine_similarity
 import operator
-import numpy as np
 
 def normalized_df(user_interaction, fillna = True):
 
